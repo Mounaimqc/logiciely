@@ -127846,7 +127846,7 @@ $1(a){return new A.xl(this.a,null)},
 $S:879}
 A.xE.prototype={
 Z(){var s=t.N,r=t.s
-return new A.Ru(A.b([A.as(["name","Fran\xe7ais (FR)","flag","\u064b\u06ba\u2021\xab\u064b\u06ba\u2021\xb7","code","fr"],s,s),A.as(["name","\u0637\xa7\u0638\u201e\u0637\xb9\u0637\xb1\u0637\xa8\u0638\u0679\u0637\xa9 (AR)","flag","\u064b\u06ba\u2021\xa9\u064b\u06ba\u2021\u061f","code","ar"],s,s),A.as(["name","English (US)","flag","\u064b\u06ba\u2021\u061b\u064b\u06ba\u2021\xb8","code","en"],s,s)],t.m0),A.b(["Mode Clair \xe2\u06a9\u20ac\xef\xb8\u0688","Mode Sombre \u064b\u06ba\u0152\u2122","Syst\xe8me (Auto) \xe2\u0691\u2122\xef\xb8\u0688"],r),A.b(["A4 Standard","Lettre US","Ticket de Caisse (80mm)"],r))}}
+return new A.Ru(A.b([A.as(["name","Fran\xe7ais (FR)","flag","\ud83c\uddeb\ud83c\uddf7","code","fr"],s,s),A.as(["name","\u0627\u0644\u0639\u0631\u0628\u064a\u0629 (AR)","flag","\ud83c\uddf2\ud83c\udde6","code","ar"],s,s),A.as(["name","English (US)","flag","\ud83c\uddfa\ud83c\uddf8","code","en"],s,s)],t.m0),A.b(["Mode Clair \u2600\ufe0f","Mode Sombre \ud83c\udf19","Syst\xe8me (Auto) \u2699\ufe0f"],r),A.b(["A4 Standard","Lettre US","Ticket de Caisse (80mm)"],r))}}
 A.Ru.prototype={
 aFF(){var s,r=this.c
 r.toString
@@ -127879,14 +127879,14 @@ s=6
 return A.k(A.lc(A.b([k,A.bf(j,!1,t.Q).u0()],t.mo),t.H),$async$EQ)
 case 6:k=n.c
 if(k!=null){m=A.bf(k,!1,t.Wp)
-n.c.T(t.q).f.bA(A.dS(null,null,null,B.a4,B.f_,B.R,null,A.u(m.dG("\xe2\u0153\u2026 Synchronisation Des Don\xe9es  termin\xe9e avec succ\xe8s !","\xe2\u0153\u2026 \u0637\u06be\u0638\u2026\u0637\u06be \u0638\u2026\u0637\xb2\u0637\xa7\u0638\u2026\u0638\u2020\u0637\xa9 \u0637\xa8\u0638\u0679\u0637\xa7\u0638\u2020\u0637\xa7\u0637\u06be  \u0637\xa8\u0638\u2020\u0637\xac\u0637\xa7\u0637\xad!","\xe2\u0153\u2026  sync completed successfully!","\xe2\u0153\u2026  sincronizado con \xe9xito!"),null,null,null,null,null,null,null),null,B.aU,null,null,null,null,null,null,null,null,null,null))}o.push(5)
+n.c.T(t.q).f.bA(A.dS(null,null,null,B.a4,B.f_,B.R,null,A.u(m.dG("\u2705 Synchronisation Des Donn\xe9es termin\xe9e avec succ\xe8s !","\u2705 \u062a\u0645\u062a \u0645\u0632\u0627\u0645\u0646\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0628\u0646\u062c\u0627\u062d!","\u2705 sync completed successfully!","\u2705 sincronizado con \xe9xito!"),null,null,null,null,null,null,null),null,B.aU,null,null,null,null,null,null,null,null,null,null))}o.push(5)
 s=4
 break
 case 3:q=2
 h=p.pop()
 l=A.Y(h)
 k=n.c
-if(k!=null)k.T(t.q).f.bA(A.dS(null,null,null,B.aw,null,B.R,null,A.u("\xe2\u200c\u0152 Erreur de synchronisation : "+A.j(l),null,null,null,null,null,null,null),null,B.aU,null,null,null,null,null,null,null,null,null,null))
+if(k!=null)k.T(t.q).f.bA(A.dS(null,null,null,B.aw,null,B.R,null,A.u("\u274c Erreur de synchronisation : "+A.j(l),null,null,null,null,null,null,null),null,B.aU,null,null,null,null,null,null,null,null,null,null))
 o.push(5)
 s=4
 break
@@ -127904,58 +127904,58 @@ s=a1.e
 s=s.length!==0?s:"Inconnu"
 r=a2?B.cX:B.cZ
 q=a2?B.q:B.bL
-q=A.dU(a,a,a,!0,!0,a3,a,1,!0,a,0,!1,a,!1,q,a,a,a,!0,a,a,a,a,a,A.u(a0.dG("Param\xe8tres Super Commercial","\u0637\xa5\u0637\xb9\u0637\xaf\u0637\xa7\u0637\xaf\u0637\xa7\u0637\u06be \u0637\xb3\u0638\u02c6\u0637\xa8\u0637\xb1 \u0638\u0192\u0638\u02c6\u0638\u2026\u0638\u0679\u0637\xb1\u0637\xb4\u0637\xa7\u0638\u201e","Super Commercial Settings","Ajustes de Super Commercial"),a,a,a,B.b2f,a,a,a),a,a,a,1,a,!0)
+q=A.dU(a,a,a,!0,!0,a3,a,1,!0,a,0,!1,a,!1,q,a,a,a,!0,a,a,a,a,a,A.u(a0.dG("Param\xe8tres Super Commercial","\u0625\u0639\u062f\u0627\u062f\u0627\u062a \u0633\u0648\u0628\u0631 \u0643\u0648\u0645\u064a\u0631\u0634\u0627\u0644","Super Commercial Settings","Ajustes de Super Commercial"),a,a,a,B.b2f,a,a,a),a,a,a,1,a,!0)
 p=A.L(20)
 o=A.ex()
 n=t.p
 o=A.a5(a,A.Z(A.b([A.Vi(B.q.N(0.2),B.a6H,30),B.h9,A.aq(A.a4(A.b([A.u(a4,a,a,a,B.U6,a,a,a),B.cr,A.u("Status : "+s,a,a,a,A.V(a,a,B.q.N(0.8),a,a,a,a,a,a,a,a,13,a,a,a,a,a,!0,a,a,a,a,a,a,a,a),a,a,a)],n),B.W,B.v,B.u,0,B.G),1),A.a5(a,B.b7a,B.B,a,a,new A.aa(B.q.N(0.25),a,a,A.L(12),a,a,B.L),a,a,a,a,B.Ar,a,a,a)],n),B.z,B.v,B.u,0,a),B.B,a,a,new A.aa(a,a,a,p,o,B.a91,B.L),a,a,a,a,B.au,a,a,a)
-p=b.Ei(a0.dG("G\u0623\u2030N\u0623\u2030RAL & LANGUE","\u0637\xb9\u0637\xa7\u0638\u2026 \u0638\u02c6\u0637\xa7\u0638\u201e\u0638\u201e\u0637\u061b\u0637\xa9","G\xc9N\xc9RAL & LANGUAGE","G\xc9N\xc9RAL Y IDIOMA"))
+p=b.Ei(a0.dG("G\xc9N\xc9RAL & LANGUE","\u0639\u0627\u0645 \u0648\u0627\u0644\u0644\u063a\u0629","G\xc9N\xc9RAL & LANGUAGE","G\xc9N\xc9RAL Y IDIOMA"))
 m=A.L(16)
 l=A.ex()
-k=a0.dG("Langue de l'application","\u0638\u201e\u0637\u061b\u0637\xa9 \u0637\xa7\u0638\u201e\u0637\u06be\u0637\xb7\u0637\xa8\u0638\u0679\u0638\u201a","App Language","Idioma de la aplicaci\u0623\xb3n")
+k=a0.dG("Langue de l'application","\u0644\u063a\u0629 \u0627\u0644\u062a\u0637\u0628\u064a\u0642","App Language","Idioma de la aplicaci\xf3n")
 k=b.v3(B.BR,B.dQ,b.gaFE(),a0.gaQY(),k)
 j=A.fn(B.ba.N(0.15),a,1,56)
-i=a0.dG("Th\xe8me et Affichage","\u0637\xa7\u0638\u201e\u0638\u2026\u0637\xb8\u0638\u2021\u0637\xb1 \u0638\u02c6\u0637\xa7\u0638\u201e\u0637\xa3\u0638\u201e\u0638\u02c6\u0637\xa7\u0638\u2020","Theme and Display","Tema y Pantalla")
+i=a0.dG("Th\xe8me et Affichage","\u0627\u0644\u0645\u0638\u0647\u0631 \u0648\u0627\u0644\u0623\u0644\u0648\u0627\u0646","Theme and Display","Tema y Pantalla")
 l=A.a5(a,A.a4(A.b([k,j,b.v3(B.a5k,B.aH,b.gaFJ(),a0.gadu(),i)],n),B.z,B.v,B.u,0,B.G),B.B,a,a,new A.aa(a3,a,a,m,l,a,B.L),a,a,a,a,a,a,a,a)
-m=b.Ei(a0.dG("DONN\u0623\u2030ES & SYNCHRONISATION ","\u0637\xa7\u0638\u201e\u0637\xa8\u0638\u0679\u0637\xa7\u0638\u2020\u0637\xa7\u0637\u06be \u0638\u02c6\u0637\xa7\u0638\u201e\u0638\u2026\u0637\xb2\u0637\xa7\u0638\u2026\u0638\u2020\u0637\xa9 \u0638\u2026\u0637\xb9 ","DATA &  SYNCHRONIZATION","DATOS Y SINCRONIZACI\u0623\u201cN "))
+m=b.Ei(a0.dG("DONN\xc9ES & SYNCHRONISATION","\u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0627\u0644\u0645\u0632\u0627\u0645\u0646\u0629","DATA & SYNCHRONIZATION","DATOS Y SINCRONIZACI\xd3N"))
 i=A.L(16)
 j=A.ex()
 k=b.yC(B.a5J,B.a4)
-h=A.u(a0.dG("Synchronisation Des Donn\xe9es","\u0638\u2026\u0637\xb2\u0637\xa7\u0638\u2026\u0638\u2020\u0637\xa9 \u0637\xa7\u0638\u201e\u0637\xa8\u0638\u0679\u0637\xa7\u0638\u2020\u0637\xa7\u0637\u06be  ","Data  Synchronization","Sincronizaci\u0623\xb3n Data"),a,a,a,B.e4,a,a,a)
-g=A.u(a0.dG("Mettre \xe0 jour les clients et produits","\u0637\u06be\u0637\xad\u0637\xaf\u0638\u0679\u0637\xab \u0637\xa7\u0638\u201e\u0637\xb9\u0638\u2026\u0638\u201e\u0637\xa7\u0637\u060c \u0638\u02c6\u0637\xa7\u0638\u201e\u0638\u2026\u0638\u2020\u0637\u06be\u0637\xac\u0637\xa7\u0637\u06be","Update clients and products","Actualizar clientes y productos"),a,a,a,B.id,a,a,a)
+h=A.u(a0.dG("Synchronisation Des Donn\xe9es","\u0645\u0632\u0627\u0645\u0646\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a","Data Synchronization","Sincronizaci\xf3n Data"),a,a,a,B.e4,a,a,a)
+g=A.u(a0.dG("Mettre \xe0 jour les clients et produits","\u062a\u062d\u062f\u064a\u062b \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0648\u0627\u0644\u0645\u0646\u062a\u062c\u0627\u062a","Update clients and products","Actualizar clientes y productos"),a,a,a,B.id,a,a,a)
 if(b.d)f=B.b_F
 else{f=A.di(a,a,B.a4,a,a,a,0,a,a,B.q,a,a,B.eK,a,new A.b3(A.L(10),B.O),a,a,a,a,a)
-f=A.eq(B.a7B,A.u(a0.dG("Sync","\u0637\u06be\u0637\xad\u0637\xaf\u0638\u0679\u0637\xab","Sync","Sinc"),a,a,a,a,a,a,a),b.gasi(),f)}f=A.mq(!1,a,a,a,!0,a,a,a,!0,a,k,a,a,a,a,a,!1,a,a,a,a,g,a,h,f,a)
+f=A.eq(B.a7B,A.u(a0.dG("Sync","\u062a\u062d\u062f\u064a\u062b","Sync","Sinc"),a,a,a,a,a,a,a),b.gasi(),f)}f=A.mq(!1,a,a,a,!0,a,a,a,!0,a,k,a,a,a,a,a,!1,a,a,a,a,g,a,h,f,a)
 h=A.fn(B.ba.N(0.15),a,1,56)
 g=a0.f
 k=b.yC(B.a5d,B.ke)
-e=A.u(a0.dG("Sync auto au d\xe9marrage","\u0637\xa7\u0638\u201e\u0638\u2026\u0637\xb2\u0637\xa7\u0638\u2026\u0638\u2020\u0637\xa9 \u0637\xa7\u0638\u201e\u0637\u06be\u0638\u201e\u0638\u201a\u0637\xa7\u0637\xa6\u0638\u0679\u0637\xa9 \u0637\xb9\u0638\u2020\u0637\xaf \u0637\xa7\u0638\u201e\u0637\xa8\u0637\xaf\u0637\u060c","Auto sync on startup","Sincronizaci\u0623\xb3n autom\u0623\u060ctica al iniciar"),a,a,a,B.e4,a,a,a)
-g=A.b9n(B.a4,new A.b19(a0,a5),k,A.u(a0.dG("Actualisation automatique en arri\xe8re-plan","\u0637\xa7\u0638\u201e\u0637\u06be\u0637\xad\u0637\xaf\u0638\u0679\u0637\xab \u0637\xa7\u0638\u201e\u0637\u06be\u0638\u201e\u0638\u201a\u0637\xa7\u0637\xa6\u0638\u0679 \u0638\u067e\u0638\u0679 \u0637\xa7\u0638\u201e\u0637\xae\u0638\u201e\u0638\u067e\u0638\u0679\u0637\xa9","Automatic background refresh","Actualizaci\u0623\xb3n autom\u0623\u060ctica en segundo plano"),a,a,a,B.id,a,a,a),e,g)
+e=A.u(a0.dG("Sync auto au d\xe9marrage","\u0627\u0644\u0645\u0632\u0627\u0645\u0646\u0629 \u0627\u0644\u062a\u0644\u0642\u0627\u0626\u064a\u0629 \u0639\u0646\u062f \u0627\u0644\u0628\u062f\u0621","Auto sync on startup","Sincronizaci\xf3n autom\xe1tica al iniciar"),a,a,a,B.e4,a,a,a)
+g=A.b9n(B.a4,new A.b19(a0,a5),k,A.u(a0.dG("Actualisation automatique en arri\xe8re-plan","\u0627\u0644\u062a\u062d\u062f\u064a\u062b \u0627\u0644\u062a\u0644\u0642\u0627\u0626\u064a \u0641\u064a \u0627\u0644\u062e\u0644\u0641\u064a\u0629","Automatic background refresh","Actualizaci\xf3n autom\xe1tica en segundo plano"),a,a,a,B.id,a,a,a),e,g)
 e=A.fn(B.ba.N(0.15),a,1,56)
-k=a0.dG("Vider le cache des images","\u0638\u2026\u0637\xb3\u0637\xad \u0637\xb0\u0637\xa7\u0638\u0192\u0637\xb1\u0637\xa9 \u0637\xa7\u0638\u201e\u0637\u06be\u0637\xae\u0637\xb2\u0638\u0679\u0638\u2020 \u0637\xa7\u0638\u201e\u0638\u2026\u0637\xa4\u0638\u201a\u0637\u06be","Clear image cache","Vaciar cach\xe9 de im\u0623\u060cgenes")
-j=A.a5(a,A.a4(A.b([f,h,g,e,b.v3(B.a5h,B.a_B,new A.b1a(a5,a0),a0.dG("Lib\xe9rer l'espace de stockage local","\u0637\u06be\u0638\u02c6\u0638\u067e\u0638\u0679\u0637\xb1 \u0638\u2026\u0637\xb3\u0637\xa7\u0637\xad\u0637\xa9 \u0637\xa7\u0638\u201e\u0637\u06be\u0637\xae\u0637\xb2\u0638\u0679\u0638\u2020 \u0637\xa7\u0638\u201e\u0638\u2026\u0637\xad\u0638\u201e\u0638\u0679\u0637\xa9","Free up local storage space","Liberar espacio de almacenamiento local"),k)],n),B.z,B.v,B.u,0,B.G),B.B,a,a,new A.aa(a3,a,a,i,j,a,B.L),a,a,a,a,a,a,a,a)
-i=b.Ei(a0.dG("SCANNER CAM\xc9RA & IMPRESSION PDF","\u0637\xa7\u0638\u201e\u0638\u2026\u0637\xa7\u0637\xb3\u0637\xad \u0637\xa7\u0638\u201e\u0637\xb6\u0638\u02c6\u0637\xa6\u0638\u0679 \u0638\u02c6\u0637\xa7\u0638\u201e\u0637\xb7\u0637\xa8\u0637\xa7\u0637\xb9\u0637\xa9 PDF","CAMERA SCANNER & PDF PRINTING","SCANNER DE C\u0623\u067eMARA E IMPRESI\u0623\u201cN PDF"))
+k=a0.dG("Vider le cache des images","\u0645\u0633\u062d \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u062e\u0632\u064a\u0646 \u0627\u0644\u0645\u0624\u0642\u062a","Clear image cache","Vaciar cach\xe9 de im\xe1genes")
+j=A.a5(a,A.a4(A.b([f,h,g,e,b.v3(B.a5h,B.a_B,new A.b1a(a5,a0),a0.dG("Lib\xe9rer l'espace de stockage local","\u062a\u0648\u0641\u064a\u0631 \u0645\u0633\u0627\u062d\u0629 \u0627\u0644\u062a\u062e\u0632\u064a\u0646 \u0627\u0644\u0645\u062d\u0644\u064a\u0629","Free up local storage space","Liberar espacio de almacenamiento local"),k)],n),B.z,B.v,B.u,0,B.G),B.B,a,a,new A.aa(a3,a,a,i,j,a,B.L),a,a,a,a,a,a,a,a)
+i=b.Ei(a0.dG("SCANNER CAM\xc9RA & IMPRESSION PDF","\u0627\u0644\u0645\u0627\u0633\u062d \u0627\u0644\u0636\u0648\u0626\u064a \u0648\u0627\u0644\u0637\u0628\u0627\u0639\u0629 PDF","CAMERA SCANNER & PDF PRINTING","SCANNER DE C\xc1MARA E IMPRESI\xd3N PDF"))
 k=A.L(16)
 e=A.ex()
 g=a0.d
 h=b.yC(B.a5S,B.aH)
-f=A.u(a0.dG("Bip sonore de scan","\u0637\xb5\u0638\u02c6\u0637\u06be \u0637\xa7\u0638\u201e\u0637\u06be\u0638\u2020\u0637\xa8\u0638\u0679\u0638\u2021 \u0637\xb9\u0638\u2020\u0637\xaf \u0637\xa7\u0638\u201e\u0638\u2026\u0637\xb3\u0637\xad","Beep sound on scan","Sonido de pitido al escanear"),a,a,a,B.e4,a,a,a)
-g=A.b9n(B.aH,new A.b1b(a0),h,A.u(a0.dG("\xc9mettre un signal sonore lors de la lecture EAN","\u0637\xa5\u0637\xb5\u0637\xaf\u0637\xa7\u0637\xb1 \u0637\xb5\u0638\u02c6\u0637\u06be \u0637\xb9\u0638\u2020\u0637\xaf \u0638\u201a\u0637\xb1\u0637\xa7\u0637\u060c\u0637\xa9 \u0637\xa7\u0638\u201e\u0637\xa8\u0637\xa7\u0637\xb1\u0638\u0192\u0638\u02c6\u0637\xaf","Play audio beep on barcode scan","Emitir pitido al leer c\u0623\xb3digo EAN"),a,a,a,B.id,a,a,a),f,g)
+f=A.u(a0.dG("Bip sonore de scan","\u0635\u0648\u062a \u0627\u0644\u062a\u0646\u0628\u064a\u0647 \u0639\u0646\u062f \u0627\u0644\u0645\u0633\u062d","Beep sound on scan","Sonido de pitido al escanear"),a,a,a,B.e4,a,a,a)
+g=A.b9n(B.aH,new A.b1b(a0),h,A.u(a0.dG("\xc9mettre un signal sonore lors de la lecture EAN","\u0625\u0635\u062f\u0627\u0631 \u0635\u0648\u062a \u0639\u0646\u062f \u0642\u0631\u0627\u0621\u0629 \u0627\u0644\u0628\u0627\u0631\u0643\u0648\u062f","Play audio beep on barcode scan","Emitir pitido al leer c\xf3digo EAN"),a,a,a,B.id,a,a,a),f,g)
 f=A.fn(B.ba.N(0.15),a,1,56)
 h=a0.e
 d=b.yC(B.a5Q,B.dQ)
-c=A.u(a0.dG("Vibreur lors du scan","\u0637\xa7\u0638\u201e\u0637\xa7\u0638\u2021\u0637\u06be\u0637\xb2\u0637\xa7\u0637\xb2 \u0637\xb9\u0638\u2020\u0637\xaf \u0637\xa7\u0638\u201e\u0638\u2026\u0637\xb3\u0637\xad","Vibrate on scan","Vibraci\u0623\xb3n al escanear"),a,a,a,B.e4,a,a,a)
-h=A.b9n(B.aH,new A.b1c(a0),d,A.u(a0.dG("Vibrer en cas de succ\xe8s ou d'erreur de lecture","\u0637\xa7\u0638\u201e\u0637\xa7\u0638\u2021\u0637\u06be\u0637\xb2\u0637\xa7\u0637\xb2 \u0637\xb9\u0638\u2020\u0637\xaf \u0638\u2020\u0637\xac\u0637\xa7\u0637\xad \u0637\xa3\u0638\u02c6 \u0637\xae\u0637\xb7\u0637\xa3 \u0637\xa7\u0638\u201e\u0638\u2026\u0637\xb3\u0637\xad","Vibrate on scan success or failure","Vibrar al escanear con \xe9xito o error"),a,a,a,B.id,a,a,a),c,h)
+c=A.u(a0.dG("Vibreur lors du scan","\u0627\u0644\u0627\u0647\u062a\u0632\u0627\u0632 \u0639\u0646\u062f \u0627\u0644\u0645\u0633\u062d","Vibrate on scan","Vibraci\xf3n al escanear"),a,a,a,B.e4,a,a,a)
+h=A.b9n(B.aH,new A.b1c(a0),d,A.u(a0.dG("Vibrer en cas de succ\xe8s ou d'erreur de lecture","\u0627\u0644\u0627\u0647\u062a\u0632\u0627\u0632 \u0639\u0646\u062f \u0646\u062c\u0627\u062d \u0623\u0648 \u062e\u0637\u0623 \u0627\u0644\u0645\u0633\u062d","Vibrate on scan success or failure","Vibrar al escanear con \xe9xito o error"),a,a,a,B.id,a,a,a),c,h)
 c=A.fn(B.ba.N(0.15),a,1,56)
-d=a0.dG("Format papier PDF par d\xe9faut","\u0637\u06be\u0638\u2020\u0637\xb3\u0638\u0679\u0638\u201a \u0637\xa3\u0638\u02c6\u0637\xb1\u0637\xa7\u0638\u201a PDF","Default PDF paper format","Formato papel PDF por defecto")
+d=a0.dG("Format papier PDF par d\xe9faut","\u062a\u0646\u0633\u064a\u0642 \u0623\u0648\u0631\u0627\u0642 PDF","Default PDF paper format","Formato papel PDF por defecto")
 e=A.a5(a,A.a4(A.b([g,f,h,c,b.v3(B.nz,B.aw,b.gaFH(),a0.c,d)],n),B.z,B.v,B.u,0,B.G),B.B,a,a,new A.aa(a3,a,a,k,e,a,B.L),a,a,a,a,a,a,a,a)
-k=b.Ei(a0.dG("\u0623\u20ac PROPOS & ASSISTANCE","\u0637\xad\u0638\u02c6\u0638\u201e \u0638\u02c6\u0637\xa7\u0638\u201e\u0637\xaf\u0637\xb9\u0638\u2026 \u0637\xa7\u0638\u201e\u0638\u067e\u0638\u2020\u0638\u0679","ABOUT & SUPPORT","ACERCA DE Y SOPORTE"))
+k=b.Ei(a0.dG("\xc0 PROPOS & ASSISTANCE","\u062d\u0648\u0644 \u0648\u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u0641\u0646\u064a","ABOUT & SUPPORT","ACERCA DE Y SOPORTE"))
 d=A.L(16)
 c=A.ex()
-h=b.v3(B.iX,B.en,new A.b1d(),"Super Commercial v2.5.0 (Build 2026.07)",a0.dG("Version de l'application","\u0637\xa5\u0637\xb5\u0637\xaf\u0637\xa7\u0637\xb1 \u0637\xa7\u0638\u201e\u0637\u06be\u0637\xb7\u0637\xa8\u0638\u0679\u0638\u201a","App Version","Versi\u0623\xb3n de la aplicaci\u0623\xb3n"))
+h=b.v3(B.iX,B.en,new A.b1d(),"Super Commercial v2.5.0 (Build 2026.07)",a0.dG("Version de l'application","\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062a\u0637\u0628\u064a\u0642","App Version","Versi\xf3n de la aplicaci\xf3n"))
 f=A.fn(B.ba.N(0.15),a,1,56)
-g=a0.dG("Politique de confidentialit\xe9","\u0637\xb3\u0638\u0679\u0637\xa7\u0637\xb3\u0637\xa9 \u0637\xa7\u0638\u201e\u0637\xae\u0637\xb5\u0638\u02c6\u0637\xb5\u0638\u0679\u0637\xa9","Privacy Policy","Pol\u0623\xadtica de privacidad")
-return A.dR(q,r,A.IS(A.b([o,B.bu,p,l,B.bu,m,j,B.bu,i,e,B.bu,k,A.a5(a,A.a4(A.b([h,f,b.v3(B.a55,B.Nu,new A.b1e(a5,a0),a0.dG("S\xe9curit\xe9 et protection des donn\xe9es ","\u0637\xad\u0638\u2026\u0637\xa7\u0638\u0679\u0637\xa9 \u0638\u02c6\u0637\xa3\u0638\u2026\u0637\xa7\u0638\u2020 \u0637\xa8\u0638\u0679\u0637\xa7\u0638\u2020\u0637\xa7\u0637\u06be "," data security and privacy","Seguridad y privacidad de datos "),g)],n),B.z,B.v,B.u,0,B.G),B.B,a,a,new A.aa(a3,a,a,d,c,a,B.L),a,a,a,a,a,a,a,a),B.b_H,A.bV(A.u("\u0622\xa9 2026 Super Commercial \xe2\u20ac\xa2 Logiciely",a,a,a,A.V(a,a,B.bM,a,a,a,a,a,a,a,a,12,a,a,B.aZ,a,a,!0,a,a,a,a,a,a,a,a),a,a,a),a,a),B.cj],n),B.a3k,a,a,!1),a,a,a,a,a)},
+g=a0.dG("Politique de confidentialit\xe9","\u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u062e\u0635\u0648\u0635\u064a\u0629","Privacy Policy","Pol\xedtica de privacidad")
+return A.dR(q,r,A.IS(A.b([o,B.bu,p,l,B.bu,m,j,B.bu,i,e,B.bu,k,A.a5(a,A.a4(A.b([h,f,b.v3(B.a55,B.Nu,new A.b1e(a5,a0),a0.dG("S\xe9curit\xe9 et protection des donn\xe9es ","\u062d\u0645\u0627\u064a\u0629 \u0648\u0623\u0645\u0627\u0646 \u0628\u064a\u0627\u0646\u0627\u062a "," data security and privacy","Seguridad y privacidad de datos "),g)],n),B.z,B.v,B.u,0,B.G),B.B,a,a,new A.aa(a3,a,a,d,c,a,B.L),a,a,a,a,a,a,a,a),B.b_H,A.bV(A.u("\xa9 2026 Super Commercial \u2022 Logiciely",a,a,a,A.V(a,a,B.bM,a,a,a,a,a,a,a,a,12,a,a,B.aZ,a,a,!0,a,a,a,a,a,a,a,a),a,a,a),a,a),B.cj],n),B.a3k,a,a,!1),a,a,a,a,a)},
 Ei(a){var s=null
 return new A.ad(B.a3G,A.u(a,s,s,s,A.V(s,s,B.ax,s,s,s,s,s,s,s,s,12,s,s,B.c_,s,s,!0,s,0.8,s,s,s,s,s,s),s,s,s),s)},
 v3(a,b,c,d,e){var s=null,r=this.yC(a,b),q=A.u(e,s,s,s,B.e4,s,s,s)
@@ -127964,7 +127964,7 @@ yC(a,b){var s=null,r=b.N(0.15),q=A.L(10)
 return A.a5(s,A.aQ(a,b,s,22),B.B,s,s,new A.aa(r,s,s,q,s,s,B.L),s,s,s,s,B.cq,s,s,s)}}
 A.b12.prototype={
 $1(a){var s,r=null,q=A.B(a).ax.a===B.aE?B.am:B.q,p=this.b,o=t.p
-o=A.b([A.Z(A.b([B.a7T,B.bt,A.u(p.dG("Choisir la Langue","\u0637\xa7\u0637\xae\u0637\u06be\u0637\xb1 \u0637\xa7\u0638\u201e\u0638\u201e\u0637\u061b\u0637\xa9","Choose Language","Elegir Idioma"),r,r,r,B.b52,r,r,r),B.hb,A.c6(r,r,r,B.a6J,r,r,new A.b10(a),r,r,r,r)],o),B.z,B.v,B.u,0,r),B.a0,B.hH,B.aO],o)
+o=A.b([A.Z(A.b([B.a7T,B.bt,A.u(p.dG("Choisir la Langue","\u0627\u062e\u062a\u0631 \u0627\u0644\u0644\u063a\u0629","Choose Language","Elegir Idioma"),r,r,r,B.b52,r,r,r),B.hb,A.c6(r,r,r,B.a6J,r,r,new A.b10(a),r,r,r,r)],o),B.z,B.v,B.u,0,r),B.a0,B.hH,B.aO],o)
 s=this.a.e
 B.l.V(o,new A.a9(s,new A.b11(p,a),A.a1(s).i("a9<1,c>")))
 o.push(B.a0)
@@ -127994,7 +127994,7 @@ A.b1(q,!1).ct(s)
 q.T(t.q).f.bA(A.dS(s,s,s,B.dQ,B.f_,B.R,s,A.u("\u064b\u06ba\u0152\u06af Langue appliqu\xe9e : "+A.j(r.h(0,"name")),s,s,s,s,s,s,s),s,B.aU,s,s,s,s,s,s,s,s,s,s))},
 $S:0}
 A.b18.prototype={
-$1(a){var s=null,r=A.L(20),q=this.b,p=A.Z(A.b([B.a61,B.dk,A.u(q.dG("Th\xe8me & Apparence","\u0637\xa7\u0638\u201e\u0638\u2026\u0637\xb8\u0638\u2021\u0637\xb1 \u0638\u02c6\u0637\xa7\u0638\u201e\u0637\xa3\u0638\u201e\u0638\u02c6\u0637\xa7\u0638\u2020","Theme & Appearance","Tema y Apariencia"),s,s,s,s,s,s,s)],t.p),B.z,B.v,B.u,0,s),o=this.a.f,n=A.a1(o).i("a9<1,nz>")
+$1(a){var s=null,r=A.L(20),q=this.b,p=A.Z(A.b([B.a61,B.dk,A.u(q.dG("Th\xe8me & Apparence","\u0627\u0644\u0645\u0638\u0647\u0631 \u0648\u0627\u0644\u0623\u0644\u0648\u0627\u0646","Theme & Appearance","Tema y Apariencia"),s,s,s,s,s,s,s)],t.p),B.z,B.v,B.u,0,s),o=this.a.f,n=A.a1(o).i("a9<1,nz>")
 q=A.a0(new A.a9(o,new A.b17(q,a),n),n.i("aw.E"))
 return A.kX(s,s,A.a4(q,B.z,B.v,B.aB,0,B.G),!1,new A.b3(r,B.O),p)},
 $S:40}
@@ -128010,7 +128010,7 @@ A.b1(s,!1).ct(r)
 s.T(t.q).f.bA(A.dS(r,r,r,r,r,B.R,r,A.u("\u064b\u06ba\u0698\xa8 Apparence modifi\xe9e : "+q,r,r,r,r,r,r,r),r,B.aU,r,r,r,r,r,r,r,r,r,r))},
 $S:0}
 A.b15.prototype={
-$1(a){var s=null,r=A.L(20),q=this.b,p=A.Z(A.b([B.a6U,B.dk,A.u(q.dG("Format PDF par D\xe9faut","\u0637\u06be\u0638\u2020\u0637\xb3\u0638\u0679\u0638\u201a PDF \u0637\xa7\u0638\u201e\u0637\xa7\u0638\u067e\u0637\u06be\u0637\xb1\u0637\xa7\u0637\xb6\u0638\u0679","Default PDF Format","Formato PDF por Defecto"),s,s,s,s,s,s,s)],t.p),B.z,B.v,B.u,0,s),o=this.a.r,n=A.a1(o).i("a9<1,nz>")
+$1(a){var s=null,r=A.L(20),q=this.b,p=A.Z(A.b([B.a6U,B.dk,A.u(q.dG("Format PDF par D\xe9faut","\u062a\u0646\u0633\u064a\u0642 PDF \u0627\u0644\u0627\u0641\u062a\u0631\u0627\u0636\u064a","Default PDF Format","Formato PDF por Defecto"),s,s,s,s,s,s,s)],t.p),B.z,B.v,B.u,0,s),o=this.a.r,n=A.a1(o).i("a9<1,nz>")
 q=A.a0(new A.a9(o,new A.b14(q,a),n),n.i("aw.E"))
 return A.kX(s,s,A.a4(q,B.z,B.v,B.aB,0,B.G),!1,new A.b3(r,B.O),p)},
 $S:40}
@@ -128036,7 +128036,7 @@ s.bA(A.dS(r,r,r,r,r,B.R,r,A.u("Sync auto au d\xe9marrage : "+(a?"Activ\xe9":"D\x
 $S:8}
 A.b1a.prototype={
 $0(){var s=null
-this.a.T(t.q).f.bA(A.dS(s,s,s,s,s,B.R,s,A.u(this.b.dG("\u064b\u06ba\xa7\xb9 Cache des images et codes-barres vid\xe9 !","\u064b\u06ba\xa7\xb9 \u0637\u06be\u0638\u2026 \u0638\u2026\u0637\xb3\u0637\xad \u0637\xb0\u0637\xa7\u0638\u0192\u0637\xb1\u0637\xa9 \u0637\xa7\u0638\u201e\u0637\u06be\u0637\xae\u0637\xb2\u0638\u0679\u0638\u2020 \u0637\xa7\u0638\u201e\u0638\u2026\u0637\xa4\u0638\u201a\u0637\u06be!","\u064b\u06ba\xa7\xb9 Image and barcode cache cleared!","\u064b\u06ba\xa7\xb9 Cach\xe9 vaciada!"),s,s,s,s,s,s,s),s,B.aU,s,s,s,s,s,s,s,s,s,s))},
+this.a.T(t.q).f.bA(A.dS(s,s,s,s,s,B.R,s,A.u(this.b.dG("\ud83e\uddf9 Cache des images et codes-barres vid\xe9 !","\ud83e\uddf9 \u062a\u0645 \u0645\u0633\u062d \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u062e\u0632\u064a\u0646 \u0627\u0644\u0645\u0624\u0642\u062a!","\ud83e\uddf9 Image and barcode cache cleared!","\ud83e\uddf9 Cach\xe9 vaciada!"),s,s,s,s,s,s,s),s,B.aU,s,s,s,s,s,s,s,s,s,s))},
 $S:0}
 A.b1b.prototype={
 $1(a){return this.a.Dz(a)},
@@ -128049,7 +128049,7 @@ $0(){},
 $S:0}
 A.b1e.prototype={
 $0(){var s=null
-A.bD2(B.a78,"Super Commercial App","v2.5.0 PRO",A.b([A.u(this.b.dG("Application mobile de gestion commerciale et stock connect\xe9e en temps r\xe9el au serveur  .","\u0637\u06be\u0637\xb7\u0637\xa8\u0638\u0679\u0638\u201a \u0637\xa7\u0638\u201e\u0637\xa5\u0637\xaf\u0637\xa7\u0637\xb1\u0637\xa9 \u0637\xa7\u0638\u201e\u0637\u06be\u0637\xac\u0637\xa7\u0637\xb1\u0638\u0679\u0637\xa9 \u0638\u02c6\u0637\xa7\u0638\u201e\u0638\u2026\u0637\xae\u0637\xb2\u0638\u02c6\u0638\u2020 \u0637\xa7\u0638\u201e\u0638\u2026\u0637\u06be\u0637\xb5\u0638\u201e \u0638\u067e\u0638\u0679 \u0637\xa7\u0638\u201e\u0638\u02c6\u0638\u201a\u0637\u06be \u0637\xa7\u0638\u201e\u0638\u067e\u0637\xb9\u0638\u201e\u0638\u0679 \u0637\xa8\u0637\xae\u0637\xa7\u0637\xaf\u0638\u2026 .","Mobile commercial and stock management application connected in real-time to  server.","Aplicaci\u0623\xb3n m\u0623\xb3vil de gesti\u0623\xb3n comercial y de stock conectada en tiempo real al servidor ."),s,s,s,s,s,s,s)],t.p),this.a)},
+A.bD2(B.a78,"Super Commercial App","v2.5.0 PRO",A.b([A.u(this.b.dG("Application mobile de gestion commerciale et stock connect\xe9e en temps r\xe9el au serveur  .","\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u0648\u0627\u0644\u0645\u062e\u0632\u0648\u0646 \u0627\u0644\u0645\u062a\u0635\u0644 \u0641\u064a \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0641\u0639\u0644\u064a \u0628\u062e\u0627\u062f\u0645 .","Mobile commercial and stock management application connected in real-time to  server.","Aplicaci\xf3n m\xf3vil de gesti\xf3n comercial y de stock conectada en tiempo real al servidor ."),s,s,s,s,s,s,s)],t.p),this.a)},
 $S:0}
 A.Z_.prototype={
 E(a){var s=null,r=this.c
@@ -129661,7 +129661,7 @@ a5=B.o.P(b5,2)
 a6=B.o.P(b6,2)
 a7=b6<=0.01?"1":"0"
 a8=t.N
-a9=A.as(["Date",a1,"Heure",a2,"Remise",a3,"Total",a4,"IDTiers",b7,"Benefice","0.00","Numero",b4,"Type","3","Rendu","0.00","Versement",a5,"Reste",a6,"AjoutePar","0","ModifierPar","0","Image","","DateAjout",a1,"DateModification",a1,"HeureModification",a2,"IDTypeTarifs","0","IDMotifEntreeSortieStock","0","DocCommande","0","Etabli_par","Commercial","Enattente","0","DocRetour","0","Regle",a7,"TotalTVA",B.o.P(b8*0.19,2),"TotalHT",B.o.P(b8,2)],a8,a8)
+a9=A.as(["Date",a1,"Heure",a2,"Remise",a3,"Total",a4,"IDTiers",b7,"Benefice","0.00","Numero",b4,"Type","5","Rendu","0.00","Versement",a5,"Reste",a6,"AjoutePar","0","ModifierPar","0","Image","","DateAjout",a1,"DateModification",a1,"HeureModification",a2,"IDTypeTarifs","0","IDMotifEntreeSortieStock","0","DocCommande","0","Etabli_par","Commercial","Enattente","0","DocRetour","0","Regle",a7,"TotalTVA",B.o.P(b8*0.19,2),"TotalHT",B.o.P(b8,2)],a8,a8)
 b0=A.ck(A.en("Insert_document.php"),0,null).kK(a9).ghz()
 p=4
 m=null
